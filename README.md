@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋</h1>
 
 <p align="left">
-I use this GitHub to develop and showcase my software engineering skills through personal projects and hands-on tutorials.
+I use this GitHub to develop my software engineering skills through personal projects and hands-on tutorials.
 </p>
 
 <h2 align="left">🤔 About Me</h2>
